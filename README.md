@@ -1,3 +1,3 @@
 # practice-tailwind
-author: Talha Nawaz
+author: Talha Nawaz <br>
 practice git and github
